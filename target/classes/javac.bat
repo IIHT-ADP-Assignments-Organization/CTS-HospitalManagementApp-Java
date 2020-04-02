@@ -1,0 +1,1 @@
+cmd.exe /X /C ""C:\Program Files\Java\jdk1.8.0_241\bin\javac.exe" @C:/Users/shashidhar/eclipse-workspace/HospitalManagementApp/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler1573067599316029865arguments"
